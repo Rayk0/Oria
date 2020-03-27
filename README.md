@@ -1,6 +1,6 @@
 # Oria Theme
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/gpem.4-colours?color=02b3e9)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Installs](https://img.shields.io/visual-studio-marketplace/i/gpem.4-colours?color=eb9022)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Rating](https://img.shields.io/visual-studio-marketplace/stars/gpem.4-colours?color=FF203B)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![License: MIT](https://img.shields.io/github/license/Germain-Gadel/4-colours?color=41ce3c)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/rayk0.oria?color=02b3e9)](https://marketplace.visualstudio.com/items?itemName=rayk0.oria)  [![Installs](https://img.shields.io/visual-studio-marketplace/i/gpem.4-colours?color=eb9022)](https://marketplace.visualstudio.com/items?itemName=rayk0.oria)  [![Rating](https://img.shields.io/visual-studio-marketplace/stars/rayk0.oriacolor=FF203B)](https://marketplace.visualstudio.com/items?itemName=rayk0.oria)  [![License: MIT](https://img.shields.io/github/license/Rayk0/Oria?color=41ce3c)](https://opensource.org/licenses/MIT)
 
 
 ## Introduction
