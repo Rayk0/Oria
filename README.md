@@ -13,5 +13,5 @@ ext install rayk0.oria
 ```
 
 ## Screenshot
-![C Screenshot](https://github.com/Germain-Gadel/4-colours/raw/master/images/Blue.png)
-![React.js Screenshot](https://github.com/Germain-Gadel/4-colours/raw/master/images/Orange.png)
+![C Screenshot](https://github.com/Rayk0/Oria/blob/master/images/C.png)
+![React.js Screenshot](https://github.com/Rayk0/Oria/blob/master/images/React:JS.png)
