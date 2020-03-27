@@ -1,0 +1,23 @@
+{
+    "name": "oria",
+    "displayName": "Oria",
+    "description": "Fresh matching colors with a touch of darkness for your eyes. Inspired by GPEM and 4 Colors.",
+    "version": "0.3.0",
+    "publisher": "rayk0",
+    "repository": "https://github.com/Rayk0/Oria",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oria",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oria-color-theme.json"
+            }
+        ]
+    }
+}
